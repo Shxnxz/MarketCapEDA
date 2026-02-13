@@ -1,6 +1,6 @@
-#Fast Food Sales Analysis: EDA and Statistical Inference
+# Fast Food Sales Analysis: EDA and Statistical Inference
 
-##Installation and Setup
+## Installation and Setup
 1. Repository Setup
 Clone the repository to your local machine:
 
